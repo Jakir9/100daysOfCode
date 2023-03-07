@@ -27,3 +27,4 @@ I then completed the Objects exercises on the same website as I have not used ob
 
 <img width="247" alt="Screenshot 2023-03-07 at 10 10 10" src="https://user-images.githubusercontent.com/30843706/223391461-0b83853c-2f0b-4852-b005-d4403198b61d.png"> <img width="258" alt="Screenshot 2023-03-07 at 10 15 29" src="https://user-images.githubusercontent.com/30843706/223392706-6d25102e-583e-48ef-98f6-d458c90eb777.png">
 
+Completed the JS quiz https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS and scored 19/25, I felt confident as I have done some JS before. However I was aiming for atleast 20/25 so I felt unhappy. I will attempt this again in a few weeks and hopefully get the full marks.
