@@ -20,4 +20,6 @@ I found the image on google and linked the image url to display on my webpage.
 Today I wanted to familiarise myself with DOM manipulation in JS. I found an exercise on W3 Schools with 9 exercises which helped with the topic and completed it. The link was: https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_dom_html1
 It helped me get better at knowing when to use InnerText and InnerHTML. I also learnt how to change text colour, font size and whether to display text or not using purely JS DOM manipulation
 
+<img width="257" alt="Screenshot 2023-03-07 at 09 58 49" src="https://user-images.githubusercontent.com/30843706/223389351-864f0108-caf5-4385-9c63-61f43e33e05b.png">
+
 
