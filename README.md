@@ -22,7 +22,8 @@ It helped me get better at knowing when to use InnerText and InnerHTML. I also l
 
 <img width="257" alt="Screenshot 2023-03-07 at 09 58 49" src="https://user-images.githubusercontent.com/30843706/223389351-864f0108-caf5-4385-9c63-61f43e33e05b.png">
 
-I then completed the Objects exercises on the same website as I have not used objects before. I learnt how objects are made in JS and how to access an objects properties.
+I then completed the Objects exercises on the same website as I have not used objects before. I learnt how objects are made in JS and how to access an objects properties. I further tested my knowledge on JS events by completing the relevant exercise.
 
 
-<img width="247" alt="Screenshot 2023-03-07 at 10 10 10" src="https://user-images.githubusercontent.com/30843706/223391461-0b83853c-2f0b-4852-b005-d4403198b61d.png">
+<img width="247" alt="Screenshot 2023-03-07 at 10 10 10" src="https://user-images.githubusercontent.com/30843706/223391461-0b83853c-2f0b-4852-b005-d4403198b61d.png"><img width="258" alt="Screenshot 2023-03-07 at 10 15 29" src="https://user-images.githubusercontent.com/30843706/223392706-6d25102e-583e-48ef-98f6-d458c90eb777.png">
+
