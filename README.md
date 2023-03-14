@@ -29,7 +29,7 @@ I then completed the Objects exercises on the same website as I have not used ob
 
 Completed the JS quiz https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS and scored 19/25, I felt confident as I have done some JS before. However I was aiming for atleast 20/25 so I felt unhappy. I will attempt this again in a few weeks and hopefully get the full marks.
 
-##Day 3
+## Day 3
 
 Today was the first day of School of Code where I learnt a lot of brand new information about the best way to learn and be efficient at problem solving.
 
