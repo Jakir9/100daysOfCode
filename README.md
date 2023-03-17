@@ -29,8 +29,32 @@ I then completed the Objects exercises on the same website as I have not used ob
 
 Completed the JS quiz https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS and scored 19/25, I felt confident as I have done some JS before. However I was aiming for atleast 20/25 so I felt unhappy. I will attempt this again in a few weeks and hopefully get the full marks.
 
-## Day 3
-
+## Day 3 
+Monday 13th March 2023
 Today was the first day of School of Code where I learnt a lot of brand new information about the best way to learn and be efficient at problem solving.
 
 We were also introduced to https://flukeout.github.io which is a task which helps you learn more about how css selectors work. We worked in three's and completed questions on the website and I carried on attempting questions after the session in my own time too. 
+
+
+## Day 4
+Tuesday 14th March 2023
+
+Today we delve into the basics on javascript and learnt about integers, strings booleans and basic programming in JS
+
+
+##Day 5 
+Wednesday 15th March 2023
+
+We explored creating objects and acessing different elements within an object. I also learnt how dictionarys and objects are similiar as they both have keys and values.
+
+## Day 6 
+Thursday 16th March 2023
+
+Today we delve into Arrays and being able to access different elements in the array. I learnt new commands such as reverse, pop, push, shift and unshift that are used in array manipulation. We also explored nested arrays, with arrays and objects with arrays. I also learnt about string interpolation which is done using the dollar sign.
+
+## Day 7
+Friday 17th March 2023
+
+Today I completed a hackathon with my pair programming parter. We had a series of task that we broke down into smaller tasks. The aim was to make a rock paper scissors game in JS using input from the user. We used prompts and alerts to notify and takd input from the user.
+
+We completed this successfully along side the bonus tasks. I then used a template provided by SOC to further create another versiokn of the rock-paper-scissors which this time used buttons on the web page and displayed the result of the game too. I enjoyed the task quite a lot as it required me to learn new concepts and implement them in a working project.
