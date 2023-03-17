@@ -42,7 +42,7 @@ Tuesday 14th March 2023
 Today we delve into the basics on javascript and learnt about integers, strings booleans and basic programming in JS
 
 
-##Day 5 
+## Day 5 
 Wednesday 15th March 2023
 
 We explored creating objects and acessing different elements within an object. I also learnt how dictionarys and objects are similiar as they both have keys and values.
