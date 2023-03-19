@@ -58,3 +58,9 @@ Friday 17th March 2023
 Today I completed a hackathon with my pair programming parter. We had a series of task that we broke down into smaller tasks. The aim was to make a rock paper scissors game in JS using input from the user. We used prompts and alerts to notify and takd input from the user.
 
 We completed this successfully along side the bonus tasks. I then used a template provided by SOC to further create another versiokn of the rock-paper-scissors which this time used buttons on the web page and displayed the result of the game too. I enjoyed the task quite a lot as it required me to learn new concepts and implement them in a working project.
+
+
+## Day 8
+Saturday 19th March 2023
+
+I experimented with the pokemon api and was able to fetch characteristics of the pokemon based on the pokemon name or ID submitted. I became more familiar with JSON files and how to access information from them. I also learnt about how to fetch from an api and manipulate the data.
