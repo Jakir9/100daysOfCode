@@ -1,4 +1,4 @@
-# 100daysOfCode Diary // School of Code Bootcamp
+# 100 Days Of Code Diary
 
 I will be documenting my progress for the #100daysOfCode challenge
 
