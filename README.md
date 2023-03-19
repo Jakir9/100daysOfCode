@@ -63,4 +63,4 @@ We completed this successfully along side the bonus tasks. I then used a templat
 ## Day 8
 Saturday 19th March 2023
 
-I experimented with the pokemon api and was able to fetch characteristics of the pokemon based on the pokemon name or ID submitted. I became more familiar with JSON files and how to access information from them. I also learnt about how to fetch from an api and manipulate the data.
+I experimented with the pokemon api and was able to fetch characteristics of the pokemon based on the pokemon name or ID submitted. I became more familiar with JSON files and how to access information from them. I also learnt about how to fetch from an api and manipulate the data. I've uploaded the work I completed on github.
