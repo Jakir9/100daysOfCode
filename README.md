@@ -64,3 +64,18 @@ We completed this successfully along side the bonus tasks. I then used a templat
 Saturday 19th March 2023
 
 I experimented with the pokemon api and was able to fetch characteristics of the pokemon based on the pokemon name or ID submitted. I became more familiar with JSON files and how to access information from them. I also learnt about how to fetch from an api and manipulate the data. I've uploaded the work I completed on github.
+
+
+##Day 9
+
+Monday 20th March
+
+I learn about what the DOM is in javascript and how js can be used to manipulate the DOM
+and how this does not change the underlying html file.
+I had tasks where I had to change parts of the DOM using querySelector and innerText/ textContent/innerHtml
+
+Tuesday 21st March
+
+I cemented my knowledge by practising more DOM manipulation and used EventListeners in java script.
+I used event listeners with buttons presses and mouse clicks and more on the website and called functions which
+changed the appearance of the page once it was activated.
