@@ -66,7 +66,7 @@ Saturday 19th March 2023
 I experimented with the pokemon api and was able to fetch characteristics of the pokemon based on the pokemon name or ID submitted. I became more familiar with JSON files and how to access information from them. I also learnt about how to fetch from an api and manipulate the data. I've uploaded the work I completed on github.
 
 
-##Day 9
+## Day 9
 
 Monday 20th March
 
@@ -74,8 +74,28 @@ I learn about what the DOM is in javascript and how js can be used to manipulate
 and how this does not change the underlying html file.
 I had tasks where I had to change parts of the DOM using querySelector and innerText/ textContent/innerHtml
 
+## Day 10
 Tuesday 21st March
 
 I cemented my knowledge by practising more DOM manipulation and used EventListeners in java script.
 I used event listeners with buttons presses and mouse clicks and more on the website and called functions which
 changed the appearance of the page once it was activated.
+
+## Day 11
+Wednesday 22nd March
+
+
+## Day 12
+Thursday 23rd March 
+
+
+## Day 13
+Monday 27th March
+
+Today I learnt about how UI/UX matter a lot when creating products for consumers. It is literally
+the difference between having a super succesful product and a product that will never be used.
+I also attempted 2 CSS-based games, where I learnt more about how to align-items, justify-content, wrap-text and 
+more. I feel like i'm less knowledgable in CSS compared to JS, however the activities I completed today really helped
+me consolidate my knowledge of CSS.
+
+
