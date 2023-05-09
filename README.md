@@ -300,3 +300,35 @@ www.jakirashraf.me
 Learnt how to use vercel and netlify to display my projects and portfolio site. These sites are much better than github pages in my opinion, especially when it comes to showing off JS and React apps.
 
 Also happy to be half way through the 100 day challenge.
+
+## Day 51:
+
+Monday 1st May
+
+Worked on my CV. Enjoyed the bank holiday
+
+## Day 52:
+
+Tuesday 2nd May
+
+Had a retro on the previous week with my group and discussed feedback on each others performance and how we could improve for the final project. Independent learning in the afternoon. I revised the gaps of knowledge I had in React and explored Material UI further as we used this in our mid-term project lastweek. I also learnt more on react styled components.
+
+## Day 53:
+
+Wednesday 3rd May
+
+Independent learning on HTTP requests, React router and revisited useEffect() & useReducer()
+Also visited Async functions and promises.
+
+## Day 54:
+
+Thursday 4th May
+
+Lecture on building the best CV. Learnt about how to prep for jobs.
+Focusing more on Leetcode questions and Data structures & algorithms.
+
+## Day 55:
+
+Friday 5th May
+
+Hackathon day - Built an app using
