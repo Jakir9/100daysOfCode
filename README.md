@@ -190,3 +190,113 @@ Monday 10th April
 
 Surprised how fast the first month has gone already and how i've came.
 We went over React and had an introduction into props and reusable components. Enjoying react so far !
+
+write Day 31 and the date onwards
+
+## Day 31:
+
+Tuesday 11th April
+
+Completed a recap task on React. I created a simple app that allows the user to add and remove items from a list. I also learnt about how to use the useState
+
+## Day 32:
+
+Wednesday 12th April
+
+Did more reactJS today. Learnt how to pass props between many components and explored the component tree in more detail
+
+## Day 33:
+
+Thursday 13th April
+
+Learnt about immutable array methods, spread operator and useEffect in React.
+
+## Day 34:
+
+Friday 14th April
+
+Friday Hackathon. Created a to do list app with React. I enjoyed this task as it allowed me to practice my React skills and We was able to create a working app in a short amount of time. The app could add and delete items from the to do list. Explored List and keys in react and how you need to have keys to identify individual items in the list and how you can identify each of them from one another.
+
+## Day 35-36:
+
+Saturday 15th April - Sunday 16th April
+
+Looked into more React methods that I was not taught in class. Amazed to see how many methods are avaiable.
+Also learn about react styled components, how to use them instead of CSS. Also learnt about react inline styling.
+
+## Day 37:
+
+Monday 17th April
+
+completed a workshop on UseEffect in react and followed documentation tutorial on this.
+Learnt why useEffect is needed especially when getting data from and external source i.e an Api or a video from a third party website
+
+## Day 38:
+
+Tuesday 18th April
+
+Learnt about useReducer in react and followed documentation tutorial on this.
+Learnt about the difference between useReducer and useState and when to use each one.
+
+## Day 39:
+
+Wednesday 19th April
+
+Completed a group workshop on testing in react.
+Learnt about how to test react components using jest and react testing library.
+Learnt about how to mock functions and how to test for props and state.
+
+## Day 40:
+
+Thursday 20th April
+
+Learnt about how to use react router and how to use it to create a multi page app.
+Learn about the agile methodology and did independent research on the 12 principles of Agile.
+
+## Day 41:
+
+Friday 21st April
+
+Created a Pokemon Library using the pokemon API. We created user stories, components trees, a Hi and Low fidelity wireframe
+and created the web app. I enjoyed this very much and previosuly worked with the pokemon api and created a similiar app in JS. It was fun to see how much easier it was to create this in React.
+
+## Day 42-43:
+
+Saturday 22nd April - Sunday 23rd April
+
+Enjoyed my weekend off and did not touch much code at all.
+
+## Day 44 - 48 Front End Project Week:
+
+Monday 24th April - Friday 28th April
+
+Worked in a team of 4 to create this project.
+
+The problem we all faced was studying and revising content we had learnt in the bootcamp.
+We wanted to create a web app that would help us revise and test our knowledge on the content we had learnt.
+This led us to create 'Memory Masters', a flashcard webapp built in react
+
+We used the agile methodology to create this app. We had daily standups and retrospectives to make sure we were on track.
+We used Trello to keep track of our tasks and used a kanban board to keep track of our progress.
+We built user profiles, and used dot voting to come up with our web application.
+
+We built components trees and decided on the features we wanted to implement in our mvp as well as stretch goals.
+
+I took leadership role and was also responsible for making final desciions on the design of the app.
+
+We ended the week with a presentation to industry judges and other developers.
+
+Was a fun and enjoyable week. Thoroughly enjoyed working with my team and working in an Agile work flow.
+
+## Day 49-50 -- Halfway there 😊:
+
+Saturday 29th April - Sunday 30th April
+
+Had a well deserved break and did not touch much code at all.
+
+Cleaned up the web application and hosted this as well as my porfolio site online.
+www.jakirashraf.me
+
+Learnt how to use vercel and netlify to display my projects and portfolio site. These sites are much better than github pages in my opinion, especially when it comes to showing off JS and React apps.
+
+Also happy to be half way through the 100 day challenge.
