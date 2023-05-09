@@ -331,4 +331,37 @@ Focusing more on Leetcode questions and Data structures & algorithms.
 
 Friday 5th May
 
-Hackathon day - Built an app using
+Hackathon day - Built an app using React which displayed different countries around the world and their flag, population and more. Implemented a search function to be able to find specific countries and a filter option to filter by continent.
+Also worked on the CSS for the web app too.
+
+## Day 56-57:
+
+Saturday 6th May - Sunday 7th May
+
+Had a well deserved break away from the ReactJS/Front-end development.
+
+Looked into some NodeJS and practised using:
+-FS
+-Path
+-OS
+-HTTP
+
+## Day 58:
+
+Monday 8th May - Bank holiday (Coronation day)
+
+Followed an online tutorial and built a live chat messaging system in Node.
+Chat app also has a username for each user.
+
+## Day 59:
+
+Tuesday 9th May
+
+Completed many katas and leetcode questions today
+
+Worked on reading and writing to json files using fs module in Node.
+learnt about stringify and parse json methods to create and read my own JSON files.
+
+## Day 60:
+
+Wednesday 10th May
