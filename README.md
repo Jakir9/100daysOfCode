@@ -84,12 +84,24 @@ changed the appearance of the page once it was activated.
 ## Day 11
 Wednesday 22nd March
 
+Learnt about Async function & promises in JS. Will definitely revisit promises and when to use async function to improve my understanding.
+Built an analogue moving clock in JS too.
+
 
 ## Day 12
 Thursday 23rd March 
-
+Review async functions and promises. Practiced Codewars questions. Independent studying on JS.
 
 ## Day 13
+Friday 24th March 
+Createed a dictionary web app in our friday hackathon using the dictionary API. We had to use Async functions that we learnt this week when it came to fetching from the API. I realised that I  really enjoy using different API's and making useful projects.
+
+## Day 14-15
+Saturday 25th March - Sunday 26th March 
+
+Recapped on this weeks learning and watched more videos on how Async works. Still getting my head around promises and what res/req does and the syntax.
+
+## Day 16
 Monday 27th March
 
 Today I learnt about how UI/UX matter a lot when creating products for consumers. It is literally
@@ -97,5 +109,48 @@ the difference between having a super succesful product and a product that will 
 I also attempted 2 CSS-based games, where I learnt more about how to align-items, justify-content, wrap-text and 
 more. I feel like i'm less knowledgable in CSS compared to JS, however the activities I completed today really helped
 me consolidate my knowledge of CSS.
+
+## Day 17
+Tuesday 28th March
+
+Learnt more about UI/UX and the importance of it. Was introduced to the disney ideation: 
+```The Disney Creative Strategy is a tool for brainstorming and developing ideas. It involves using three sequential roles, or thought processes, namely the Dreamer, the Realist, and the Critic.```
+
+Completed Codewars Kata's in the morningas usual.
+
+## Day 18
+Wednesday 29th March
+
+Completed Codewars in the morning.
+Was introduced to Figma and Figjam, created my first hi and low fidelity wire-frames. Enjoying how easy to use Figma is. Also experimented with Canva.
+Tried to clone the Ferrari website using pure CSS, was challenging but very fun !
+
+
+## Day 19
+Thursday 30th March
+
+Mindset session on UI/UX. Completed a design challenge as a team and presented this to the rest of the group. We made the wireframe to our School of Evil Magic including the landing page, forms and routing.
+
+
+## Day 20
+Friday 31st March
+
+Friday Hackathon. We brand our school of evil magic website to life using JS and CSS. We added sound to the site and created user profiles for our potention users. We had users in mind from the start and choose an appropriate colour palette for the website.
+
+## Day 21
+Saturday 1st April
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
