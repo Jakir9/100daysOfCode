@@ -340,7 +340,7 @@ Saturday 6th May - Sunday 7th May
 
 Had a well deserved break away from the ReactJS/Front-end development.
 
-Looked into some NodeJS and practised using:
+Looked into some NodeJS and practiced using:
 -FS
 -Path
 -OS
@@ -366,7 +366,7 @@ learnt about stringify and parse json methods to create and read my own JSON fil
 
 Wednesday 10th May
 
-Practised recursive function on Codewars in the morning.
+Practiced recursive function on Codewars in the morning.
 
 Built our own REST Api in our groups and used Postman and Thunder Client to test our endpoints.
 Learnt the syntax for creating a REST Api in Node and how to use express to create endpoints.
