@@ -377,3 +377,5 @@ Create (POST)
 Read (GET)
 Update (PATCH)
 Delete (DELETE)
+
+After hours I looked up how to make a web app for posting movie reviews and having this communicate to the backend/database and storing these reviews in the DB. Will definitely refer back to this when I start my own full stack project.
