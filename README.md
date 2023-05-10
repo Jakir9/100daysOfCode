@@ -365,3 +365,15 @@ learnt about stringify and parse json methods to create and read my own JSON fil
 ## Day 60:
 
 Wednesday 10th May
+
+Practised recursive function on Codewars in the morning.
+
+Built our own REST Api in our groups and used Postman and Thunder Client to test our endpoints.
+Learnt the syntax for creating a REST Api in Node and how to use express to create endpoints.
+
+Gained more experience with using CRUD operations:
+
+Create (POST)
+Read (GET)
+Update (PATCH)
+Delete (DELETE)
