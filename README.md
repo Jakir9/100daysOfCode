@@ -380,7 +380,6 @@ Delete (DELETE)
 
 After hours I looked up how to make a web app for posting movie reviews and having this communicate to the backend/database and storing these reviews in the DB. Will definitely refer back to this when I start my own full stack project.
 
-
 ## Day 61:
 
 Thursday 11th May
@@ -391,7 +390,7 @@ Learnt about adding middleware to our servers such as Morgan and also our own cu
 
 Friday 12th May
 
-Hackathon Friday! 
+Hackathon Friday!
 
 We had to build the backend for our Recipe website, includeding setting up response our server would give when it recieves requests and hooking up the backend to a front-end webpage. We had struggles when it came to understanding, what is contained in the req.param.id and req.param.body and being able to pull the correct infromation from them, however we learnt quickly how it all worked and now have a good understanding of them. I also learnt from my team mate how to user routers in NodeJS, which made managing pages so much easier. I was really happy with what we achieved and we presented it to the rest of the group A (30ish people).
 
@@ -399,6 +398,10 @@ We had to build the backend for our Recipe website, includeding setting up respo
 
 Saturday 13th May
 
-Completed my weekend assignment, which was similiar to the hackathons task but this was an individual exercise. Experimented with middleware more and learnt how to add status codes to my responses and learnt more about using morgan and what kind data I can log using it.
+Completed my weekend assignment, which was similar to the hackathons task but this was an individual exercise. Experimented with middleware more and learnt how to add status codes to my responses and learnt more about using morgan and what kind data I can log using it.
 
+## Day 64:
 
+Sunday 14th May
+
+Had a well deserved break today. Onl
