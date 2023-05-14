@@ -404,4 +404,4 @@ Completed my weekend assignment, which was similar to the hackathons task but th
 
 Sunday 14th May
 
-Had a well deserved break today. Onl
+Had a well deserved break today. Finished watching 'The FreeCodeCamp' YouTube video on NodeJS. Read into and watched videos on JWT, Authentication and Authorization. Also learnt about caching and how to use it to improve the performance of our web apps. Learnt how to add Node-cache to our web apps and how to use it th cache data. Looking forward to using this in my next project. Excited to learn more about databases and PostgreSQL next week.
