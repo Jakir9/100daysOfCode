@@ -405,3 +405,14 @@ Completed my weekend assignment, which was similar to the hackathons task but th
 Sunday 14th May
 
 Had a well deserved break today. Finished watching 'The FreeCodeCamp' YouTube video on NodeJS. Read into and watched videos on JWT, Authentication and Authorization. Also learnt about caching and how to use it to improve the performance of our web apps. Learnt how to add Node-cache to our web apps and how to use it th cache data. Looking forward to using this in my next project. Excited to learn more about databases and PostgreSQL next week.
+
+## Day 65
+
+Monday 15th May
+
+Had an 11am start at SOC, Was quite burnt out from the last few days debugging. Today we started learning about databases and getting hands on with SQL queries. I Completed the tasks on SQL Bolt [https://sqlbolt].com/ and starting doing the SQL Murder mystery[https://mystery.knightlab.com/] game to help myself learn.
+
+I will keep practising my SQL skills today until I have a strong understanding of databases and queries.
+I plan on doing CodeWar Kata's and some Leetcode today. I will also work on tweeking my CV and Updating my portfolio site[www.jakirashraf.me]
+
+## Day 66
