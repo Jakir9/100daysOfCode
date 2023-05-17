@@ -416,3 +416,15 @@ I will keep practising my SQL skills today until I have a strong understanding o
 I plan on doing CodeWar Kata's and some Leetcode today. I will also work on tweeking my CV and Updating my portfolio site[www.jakirashraf.me]
 
 ## Day 66
+
+Tuesday 16th May
+
+Learn more about SQL INNER, LEFT,RIGHT and FULL JOINS. As well as creating, updating and deleting tables in addition to exploring subqueries. Continued where I left off on SQLBolt and sql murder mysteries game.
+
+## Day 67
+
+Wednesday 17th May
+
+Created our own database on elephantSQL.
+Learnt about .env files and the pg package in nodeJS.
+We finally learnt to hook up our database to our backend in NodeJS and how to send queries to our database server using backend. Excited to have learnt all pieces of the full stack puzzle and to be able to hopefully create our own full stack application very soon. I also uploaded my CV for review to the school of code careers advisors.
