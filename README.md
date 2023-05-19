@@ -428,3 +428,21 @@ Wednesday 17th May
 Created our own database on elephantSQL.
 Learnt about .env files and the pg package in nodeJS.
 We finally learnt to hook up our database to our backend in NodeJS and how to send queries to our database server using backend. Excited to have learnt all pieces of the full stack puzzle and to be able to hopefully create our own full stack application very soon. I also uploaded my CV for review to the school of code careers advisors.
+
+## Day 68
+
+Thursday 18th May
+
+Today we started off with some codeWars Kata in the morning and then for the rest of the day we proceeded to learn how to connect a postgres database to NodeJS using pg package. In addition we also learn the benefits of parameterized queries and how it prevents malicious users from
+performing SQL injections on our database.
+
+## Day 69
+
+Friday 19th May
+
+Today we had a guest session with Couchbase and had a one day crash course on NOSQL and how to setup databases/buckets wth Couchbase Acapella.
+We had multiple quizzes on NOSQL and using Couchbase software to host our DB. We created code in NodeJS connected to the CB servers and performed CRUD operations on our DB. We also learnt about the benefits of using NOSQL over SQL and when to use each one. Very content heavy day today but was enjoyable as we learnt a lot. Spent the evening adding projects from the SOC bootcamp to my Github profile
+
+## Day 70
+
+Saturday 20th May
