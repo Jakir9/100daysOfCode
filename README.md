@@ -446,3 +446,21 @@ We had multiple quizzes on NOSQL and using Couchbase software to host our DB. We
 ## Day 70
 
 Saturday 20th May
+
+Spent the day organising my Github profile and adding projects from the SOC bootcamp to my Github profile. I also started adding a README.md file to each project and added a description of the project and the tech stack used. Explored the UK police crime data api also using Insomnia and the other freely available API's from the government website. Will definitely use one of these amazing datasets in a future project.
+
+## Day 71
+
+Sunday 21st May
+
+Not too much coding today. Was debugging my react weather app and trying to figure out why it keeps crashing.
+
+## Day 72
+
+Monday 22nd May
+
+Started the day at 11am at SOC and spent the day learning about Authentication, Authorisation, JWT and cookies. Learnt how the different cookies sessions, long and short and how different applications prefer different ones, i.e FB prefers longer ones and banks prefer shorter ones (for security). Installed wireshark, Virtual box and Kali linux on my laptop. Looking to play around with some cyber security/networking programs and learn more.
+
+## Day 73
+
+Tuesday 23rd May
