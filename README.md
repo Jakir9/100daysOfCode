@@ -466,3 +466,10 @@ Started the day at 11am at SOC and spent the day learning about Authentication, 
 Tuesday 23rd May
 
 Spent the morning working on CodeWar Kata's, then continued with working on 'Supabase'. We managed to implement the social login with Github successfully, after trying many times but being stuck in a login/logout loop. We realised this happened because we had put our signInWithGithub() in the useEffect function. We worked on adding a sql database to the 'supabase' control panel and we're nearly finished having the user be able to login to the webapp and then view the table. We learnt about user permissions and managing what users have access to depending on their role. Spent the evening learning how to make a python discord bot and uploaded this onto my Github profile. Will be adding more features in the future when I have time to work on it. [https://github.com/Jakir9/pythonDiscordBot.git](https://github.com/Jakir9/pythonDiscordBot.git)
+
+## Day 74
+
+Wednesday 24th May
+
+Today we finished off yesterdays task on authentication/authorisation.
+We had a guest talk today about realistic salary expectations in the industry and in the afternoon we started learning typescript in class and had a typescript 101 workshop to work through. In the evening, I will turn my reactJS weather app into a typescript/react app.
