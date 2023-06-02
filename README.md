@@ -494,7 +494,7 @@ Enjoyed the extended weekend with the bank holiday we had on monday. Used this t
 
 # Project Month
 
-We have a 5-week project, where we have to develop a full stack application in a team of six coders. We have been giving the assignment of creating the solution to an issue of our choice.
+We have a 5-week project, where we have to develop a full stack application in a team of six coders. We have been given the assignment of creating the solution to an issue of our choice.
 
 ## Day 80-83
 
