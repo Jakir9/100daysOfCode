@@ -473,3 +473,47 @@ Wednesday 24th May
 
 Today we finished off yesterdays task on authentication/authorisation.
 We had a guest talk today about realistic salary expectations in the industry and in the afternoon we started learning typescript in class and had a typescript 101 workshop to work through. In the evening, I will turn my reactJS weather app into a typescript/react app.
+
+## Day 75
+
+Thursday 25th May
+
+Had an industry talk today and then practiced more Typescript fundamentals. We learnt how to use TS with react which was interesting and very fun to learn.
+
+## Day 76
+
+Friday 26th May
+
+Hackathon Friday! Created a weather app in react and js from scratch. Today was really good as we learnt how useful it is to use TS when it comes to developing products. Feeling much more confident with TS now and will definitely use it in my next project.
+
+## Day 77 - 79
+
+Saturday 27th May - Monday 29th May
+
+Enjoyed the extended weekend with the bank holiday we had on monday. Used this to organise my learning and create a checklist of languages/frameworks to further explore. I also started my application to developer jobs and worked on editing my cv for different roles.
+
+# Project Month
+
+We have a 5-week project, where we have to develop a full stack application in a team of six coders. We have been giving the assignment of creating the solution to an issue of our choice.
+
+## Day 80-83
+
+Tuesday 30th May - Friday 2nd June
+
+We came up with the problem we would be tackling.
+
+Our problem statement is:
+
+"Many individuals suffering from dementia and other conditions struggle to retain memories, follow daily activities, and maintain independence due to memory loss. There is a need for a user-friendly application that provides a centralised platform for storing memories, visual and audio prompts, and daily activity reminders, tailored to the individual's objectives. This application should support multiple users, facilitating social care and improving the overall quality of life for those affected by dementia and other conditions."
+
+This week we created:
+
+- A team manifesto
+- Our Team name
+- Kanban board for project management
+- Multiple ideas and problem statements
+- User stories
+- MVP requirements
+- Low fidelity MVP wireframes
+- Multiple questionaires to help us to understand our users and their needs
+- Project presentation for first week
