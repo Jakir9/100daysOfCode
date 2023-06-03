@@ -517,3 +517,9 @@ This week we created:
 - Low fidelity MVP wireframes
 - Multiple questionaires to help us to understand our users and their needs
 - Project presentation for first week
+
+## Day 84-86
+
+Saturday 3rd June - Sunday 4th June
+
+Took a well deserved rest this weekend. Spent some time looking at job requirements and better presenting my projects on my portfolio site.
