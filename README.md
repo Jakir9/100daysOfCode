@@ -518,8 +518,23 @@ This week we created:
 - Multiple questionaires to help us to understand our users and their needs
 - Project presentation for first week
 
-## Day 84-86
+## Day 84-85
 
 Saturday 3rd June - Sunday 4th June
 
-Took a well deserved rest this weekend. Spent some time looking at job requirements and better presenting my projects on my portfolio site.
+Took a well deserved rest this weekend. Spent some time looking at job requirements and better presenting my projects on my portfolio site
+
+## Day 86-90
+
+Monday 5th June
+
+Completed out Lo-Fi wireframe and started choosing the colour scheme, and the Hi-Fi wireframe. We also decided on our tech stack which will consist of:
+
+React
+Javascript
+NodeJS
+ExpressJS
+PostgreSQL
+MongoDB
+
+Tuesday 6th June
