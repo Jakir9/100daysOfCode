@@ -538,3 +538,10 @@ PostgreSQL
 MongoDB
 
 Tuesday 6th June
+
+Researched github actions for the CI/CD portion of our project.
+Researched NextJS, Vercel and Netlify for deployment of our project.
+Looked into Docker and if we require it our for our project.
+Created our project logo and zoom backgrounds.
+Established our Branch protection strategy.
+Defined our project structure.
