@@ -545,3 +545,19 @@ Looked into Docker and if we require it our for our project.
 Created our project logo and zoom backgrounds.
 Established our Branch protection strategy.
 Defined our project structure.
+
+Wednesday 7th June
+
+Set up our product backlog on Jira and broke down our tickets into Epics, Stories and Tasks.
+We defined our GitWorkflow.
+Setting up our repository.
+
+Thursday 8th June
+
+Completed our component tree and project skeleton.
+We also deployed the frontend to Vercel and did research on Auth0.
+We also came up with our ERD diagram.
+We had discussions on how we will be storing images and are now choosing between either AWS s3 and having a folder on docker containing all the images.
+We also started working on our presentation demo for the end of the week.
+
+Friday 9th June
