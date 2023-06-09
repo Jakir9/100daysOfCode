@@ -561,3 +561,5 @@ We had discussions on how we will be storing images and are now choosing between
 We also started working on our presentation demo for the end of the week.
 
 Friday 9th June
+
+We completed our presentation slides and presented to the coaches today.
