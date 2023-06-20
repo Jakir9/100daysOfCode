@@ -563,3 +563,34 @@ We also started working on our presentation demo for the end of the week.
 Friday 9th June
 
 We completed our presentation slides and presented to the coaches today.
+
+## Day 91-92
+
+Saturday 10th June - Sunday 11th June
+
+Had a relaxed weekend, to prevent burnout as we have a busy week ahead of us.
+
+## Day 93-97
+
+Monday 12th June - Friday 16th June
+
+Completed the majority of our front end this week, pretty much have 95% of our mvp done now.
+
+We just need to complete the burger bar and the sign up/login page, (in preparation for the auth0 implementation we will be doing next week).
+
+## Day 98-99
+
+Saturday 17th June - Sunday 18th June
+
+Had a relaxed weekend, as we accomplished a lot this weekend and have will be starting Backend next week
+
+## Day 100
+
+Monday 19th June
+
+100 days of code complete today! 🎉
+
+Helped the other team with setting up the medical form section and conditionally render forms.
+Started setting up the skeleton code for the backend (nodeJS)
+
+## Day 101-105
