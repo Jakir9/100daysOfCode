@@ -584,7 +584,7 @@ Saturday 17th June - Sunday 18th June
 
 Had a relaxed weekend, as we accomplished a lot this weekend and have will be starting Backend next week
 
-## Day 100
+## Day 100 +
 
 Monday 19th June
 
@@ -593,4 +593,8 @@ Monday 19th June
 Helped the other team with setting up the medical form section and conditionally render forms.
 Started setting up the skeleton code for the backend (nodeJS)
 
-## Day 101-105
+## Closing remarks
+
+July 5th 2023
+
+Today marks the finished project and demo day for employers. I'm proud of myself for being dedicated and consistent with the 100 days of code
